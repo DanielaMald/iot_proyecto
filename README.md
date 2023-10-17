@@ -1,6 +1,5 @@
 # IoT_proyecto
 
-
 ### DESIGN DOCS
 
 #### 1.Definicion del problema
@@ -17,3 +16,8 @@
 #### 4.2 Activadores
 #### 4.3 APIs
 #### 4.4 Librerias
+
+### 5.Viabilidad
+#### 5.1 Tecnica
+#### 5.2 Operativa
+#### 5.3 Economica
