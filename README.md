@@ -2,7 +2,7 @@
 
 ### DESIGN DOCS
 
-#### 1.Definicion del problema
+### 1.Definicion del problema
 
 ### 2.Antecedentes
 #### 2.1 A quien afecta
