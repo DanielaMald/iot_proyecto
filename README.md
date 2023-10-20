@@ -1,5 +1,5 @@
 # IoT_proyecto
-||||
+|--|--|--|
 |No|Actividad|Asignacion|Fecha a entregar| Estado [terminado,pendiente,haciendo]|
 
 ### DESIGN DOCS
