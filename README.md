@@ -1,10 +1,7 @@
 # IoT_proyecto
+
 | No | Actividad | Asignación | Fecha a entregar | Estado [terminado, pendiente, haciendo] |
 |---|-----------|------------|------------------|-------------------------------------|
-| 1  | Tarea 1   | Profesor A | 2023-10-30       | Terminado                           |
-| 2  | Proyecto  | Profesor B | 2023-11-15       | Haciendo                            |
-| 3  | Examen    | Profesor C | 2023-12-05       | Pendiente                           |
-
 
 
 ### DESIGN DOCS
