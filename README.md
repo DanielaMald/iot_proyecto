@@ -5,6 +5,14 @@
 | 1  |   |          |                    | pendiente                          |
 | 2  |   |         |                    | pendiente                           |
 | 3  |      |                |                       | Pendiente                           |
+| 4 |
+| 5|
+|6 |
+
+###Desarrollo de la investigacion 
+
+
+
 
 ### DESIGN DOCS
 
