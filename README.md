@@ -9,11 +9,12 @@
 | 5|
 |6 |
 
-| Fecha | Responsable | Investigacion  | Referencias |
-|---|-----------|------------|------------------|
+
 ### DESIGN DOCS
 
 ### 1.Definicion del problema
+| Fecha | Responsable | Investigacion  | Referencias |
+|---|-----------|------------|------------------|
 
 ### 2.Antecedentes
 #### 2.1 A quien afecta
