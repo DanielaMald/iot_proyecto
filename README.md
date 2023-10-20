@@ -2,7 +2,9 @@
 
 | No | Actividad | Asignación | Fecha a entregar | Estado [terminado, pendiente, haciendo] |
 |---|-----------|------------|------------------|-------------------------------------|
-
+| 1  |   |          |                    | pendiente                          |
+| 2  |   |         |                    | pendiente                           |
+| 3  |      |                |                       | Pendiente                           |
 
 ### DESIGN DOCS
 
