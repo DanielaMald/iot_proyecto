@@ -9,8 +9,8 @@
 | 5|
 |6 |
 
-
-
+| Fecha | Responsable | Investigacion  | Referencias |
+|---|-----------|------------|------------------|
 ### DESIGN DOCS
 
 ### 1.Definicion del problema
