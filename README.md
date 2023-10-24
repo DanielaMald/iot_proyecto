@@ -6,7 +6,7 @@
 | 2  | Antecedentes |Brenda | ----- | pendiente|
 |2.1|A quien afecta|Axel|---|Pendiente|
 |2.2|Que solucion existen|Daniela|---|Pendiente|
-| 3  |Objetivo general   | Danae | -----  | Pendiente|
+| 3  |Objetivo general   | Danae | -----  |Haciendo|
 |3.1|Metas|Todos|-----|Pendiente|
 | 4 | Requerimientos tecnicos|Todos|---|Pendiente|
 |4.1|Sensores|Armando|----|Pendiente|
