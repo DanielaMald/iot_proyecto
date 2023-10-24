@@ -5,7 +5,7 @@
 | 1  | Definir problema | Todos | 20/10/23 | Terminado  |
 | 2  | Antecedentes |---- | ----- | pendiente|
 |2.1|A quien afecta|---|---|Pendiente|
-|2.2|Que solucion existen|---|Pendiente|
+|2.2|Que solucion existen|---|---|Pendiente|
 | 3  |Objetivo general   |  ----  | -----  | Pendiente|
 |3.1|Metas|---|-----|Pendiente|
 | 4 | Requerimientos tecnicos|---|---|Pendiente|
